@@ -19,61 +19,61 @@ namespace ChatApp.Services
 
         readonly User user1 = new User
         {
-            Name = "Alaya Cordova",
+            Name = "Alapa Segnou",
             Image = "emoji1.png",
             Color = Color.FromArgb("#FFE0EC")
         };
         readonly User user2 = new()
         {
-            Name = "Cecily Trujillo",
+            Name = "Atebede Mengue",
             Image = "emoji2.png",
             Color = Color.FromArgb("#BFE9F2")
         };
         readonly User user3 = new()
         {
-            Name = "Eathan Sheridan",
+            Name = "Russel Franck",
             Image = "emoji3.png",
             Color = Color.FromArgb("#FFD6C4")
         };
         readonly User user4 = new()
         {
-            Name = "Komal Orr",
+            Name = "Onomo Jean",
             Image = "emoji4.png",
             Color = Color.FromArgb("#C3C1E6")
         };
         readonly User user5 = new()
         {
-            Name = "Sariba Abood",
+            Name = "Laurence Nguimeta",
             Image = "emoji5.png",
             Color = Color.FromArgb("#FFE0EC")
         };
         readonly User user6 = new()
         {
-            Name = "Justin O'Moore",
+            Name = "Okokbatonmanioc",
             Image = "emoji6.png",
             Color = Color.FromArgb("#FFE5A6")
         };
         readonly User user7 = new()
         {
-            Name = "Alissia Shah",
+            Name = "Jane Foster",
             Image = "emoji7.png",
             Color = Color.FromArgb("#FFE0EC")
         };
         readonly User user8 = new()
         {
-            Name = "Antoni Whitney",
+            Name = "Orience Etame",
             Image = "emoji8.png",
             Color = Color.FromArgb("#FFE0EC")
         };
         readonly User user9 = new()
         {
-            Name = "Jaime Zuniga",
+            Name = "Olivier",
             Image = "emoji9.png",
             Color = Color.FromArgb("#C3C1E6")
         };
         readonly User user10 = new()
         {
-            Name = "Barbara Cherry",
+            Name = "Sharonne Ewane",
             Image = "emoji10.png",
             Color = Color.FromArgb("#FF95A2")
         };
@@ -93,31 +93,31 @@ namespace ChatApp.Services
                 {
                   Sender = user6,
                   Time = "18:32",
-                  Text = "Hey there! What\'s up? Is everything ok?",
+                  Text = "YO Odk ? l\'okok est à quel niveau ?",
                 },
               new Message
               {
                 Sender = user1,
                 Time = "14:05",
-                Text = "Can I call you back later?, I\'m in a meeting.",
+                Text = "Je peux t\'appeler après ? je suis en réunion",
               },
               new Message
               {
                 Sender = user3,
                 Time = "14:00",
-                Text = "Yeah. Do you have any good song to recommend?",
+                Text = "Bonjour, je voulais une recommandation",
               },
               new Message
               {
                 Sender = user2,
                 Time = "13:35",
-                Text = "Hi! I went shopping today and found a nice t-shirt.",
+                Text = "Tu ne reponds pas pourquoi ?",
               },
               new Message
               {
                 Sender = user4,
                 Time= "12:11",
-                Text= "I passed you on the ride to work today, see you later.",
+                Text= "Je vais passer d'ici peu",
               },
             };
         }
@@ -129,32 +129,32 @@ namespace ChatApp.Services
               {
                 Sender = null,
                 Time = "18:42",
-                Text = "Yeah I know. I\'m in the same position 😂",
+                Text = "Je t\'assure. On lap seuleument 😂",
               },
               new Message
               {
                 Sender = sender,
                 Time = "18:39",
-                Text = "It\'s hard to be productive, man 😞",
+                Text = "mince la vie sans l\'okok c'est high 😞",
               },
               new Message
               {
                 Sender = sender,
                 Time = "18:39",
                 Text =
-                    "Same here! Been watching YouTube for the past 5 hours despite of having so much to do! 😅",
+                    "Garrrrrr, moi même heun😅",
               },
               new Message
               {
                 Sender = null,
                 Time = "18:36",
-                Text = "Nothing. Just chilling and watching YouTube. What about you?",
+                Text = "Rien, J\'ai juste envie de tchop l'okok",
               },
               new Message
               {
                 Sender= sender,
                 Time = "18:35",
-                Text= "Hey there! What\'s up?",
+                Text= "Hello, Quoi de neuf ?",
               },
             };
         }
