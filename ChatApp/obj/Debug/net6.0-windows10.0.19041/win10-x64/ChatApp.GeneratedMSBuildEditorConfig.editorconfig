@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChatApp
+build_property.ProjectDir = C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\
+
+[C:/Users/Asus/Desktop/Projects/Odkw/ChatApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Asus/Desktop/Projects/Odkw/ChatApp/Views/DetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatApp.Views.DetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DetailView.xaml
+
+[C:/Users/Asus/Desktop/Projects/Odkw/ChatApp/Views/HomeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatApp.Views.HomeView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomeView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomeView.xaml
+
+[C:/Users/Asus/Desktop/Projects/Odkw/ChatApp/Views/Templates/ReceiverChatMessageItemTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatApp.Views.Templates.ReceiverChatMessageItemTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\ReceiverChatMessageItemTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\ReceiverChatMessageItemTemplate.xaml
+
+[C:/Users/Asus/Desktop/Projects/Odkw/ChatApp/Views/Templates/RecentChatItemTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatApp.Views.Templates.RecentChatItemTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\RecentChatItemTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\RecentChatItemTemplate.xaml
+
+[C:/Users/Asus/Desktop/Projects/Odkw/ChatApp/Views/Templates/SenderChatMessageItemTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatApp.Views.Templates.SenderChatMessageItemTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\SenderChatMessageItemTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\SenderChatMessageItemTemplate.xaml
+
+[C:/Users/Asus/Desktop/Projects/Odkw/ChatApp/Views/Templates/SuggestedItemTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatApp.Views.Templates.SuggestedItemTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\SuggestedItemTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\SuggestedItemTemplate.xaml
