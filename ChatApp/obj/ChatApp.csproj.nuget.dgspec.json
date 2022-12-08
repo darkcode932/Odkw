@@ -65,6 +65,10 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[4.0.0-alpha.2, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.486, )",
@@ -74,6 +78,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
             }
           },
           "imports": [
@@ -127,6 +135,10 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[4.0.0-alpha.2, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.486, )",
@@ -136,6 +148,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
@@ -180,6 +196,10 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[4.0.0-alpha.2, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.486, )",
@@ -189,6 +209,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
@@ -234,6 +258,10 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[4.0.0-alpha.2, )"
+            },
             "Microsoft.Graphics.Win2D": {
               "target": "Package",
               "version": "[1.0.3.1, )"
@@ -260,6 +288,10 @@
               "noWarn": [
                 "NU1605"
               ]
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
             }
           },
           "imports": [
