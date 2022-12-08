@@ -972,3 +972,9 @@ C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\stamp\_Conv
 C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\resizetizer\r\drawable\email.png
+C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\resizetizer\r\drawable\mobile.png
+C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\resizetizer\r\drawable\password.png
+C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\resizetizer\r\drawable\user.png
+C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.dll
+C:\Users\Asus\Desktop\Projects\Odkw\ChatApp\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.pdb

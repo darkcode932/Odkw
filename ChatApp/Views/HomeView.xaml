@@ -50,7 +50,7 @@
             <Grid
                 RowDefinitions="Auto, *">
                 <Label 
-                    Text="Chat with your friends"
+                    Text="Odkw ?"
                     Style="{StaticResource TitleTextStyle}" />
                 <Grid      
                     Grid.Row="1"

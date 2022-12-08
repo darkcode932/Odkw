@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xUYUVNjeeJworbbDR67OgdFk2Yw/NdczdTOE/6NZ4DW/nIFp9EMh4A91pBhCCYpgouBJJgl4STDMXTCVuF17mA==",
+  "dgSpecHash": "oSSvcBGhq5uSrcpe+bSfNbzscAUwgMb8Vv0pyiGCH5NpjlbASTbmFMAowLU1wdc4l7cKK0G8GOMo/2R7E2C02g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Asus\\Desktop\\Projects\\Odkw\\ChatApp\\ChatApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

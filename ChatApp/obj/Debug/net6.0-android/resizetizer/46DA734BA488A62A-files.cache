@@ -1,4 +1,5 @@
 ﻿obj\Debug\net6.0-android\resizetizer\r\drawable\call.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\email.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\emoji1.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\emoji10.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\emoji2.png
@@ -9,9 +10,12 @@ obj\Debug\net6.0-android\resizetizer\r\drawable\emoji6.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\emoji7.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\emoji8.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\emoji9.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\mobile.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\password.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\record.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\search.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\send.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\user.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\appiconfg.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\appiconfg.png
