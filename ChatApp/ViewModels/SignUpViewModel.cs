@@ -11,7 +11,7 @@ namespace ChatApp.ViewModels
     internal class SignUpViewModel
 
     {
-        public string webApiKey = "AIzaSyCjQC72xl8G-Vrs0B6hi-V4rYK7Flc1GUo";
+        public string webApiKey = "";
         private INavigation _navigation;
         public Command SignUpUser { get; }
 

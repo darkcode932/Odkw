@@ -10,7 +10,7 @@ namespace ChatApp.ViewModels
 {
     internal class SignInViewModel
     {
-        public string webApiKey = "AIzaSyCjQC72xl8G-Vrs0B6hi-V4rYK7Flc1GUo";
+        public string webApiKey = "";
         public Command SignInBtn { get; } 
         public SignInViewModel(INavigation navigation)
         {
